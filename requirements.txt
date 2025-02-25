@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+ffmpeg-python
+    azure.storage.blob
